@@ -1,0 +1,17 @@
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\bin\Debug\net6.0-windows\BusTicketingSystem.exe
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\bin\Debug\net6.0-windows\BusTicketingSystem.deps.json
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\bin\Debug\net6.0-windows\BusTicketingSystem.runtimeconfig.json
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\bin\Debug\net6.0-windows\BusTicketingSystem.dll
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\bin\Debug\net6.0-windows\BusTicketingSystem.pdb
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.Form1.resources
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.csproj.GenerateResource.cache
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.AssemblyInfoInputs.cache
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.AssemblyInfo.cs
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.dll
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\refint\BusTicketingSystem.dll
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.pdb
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\BusTicketingSystem.genruntimeconfig.cache
+C:\Users\27812\OneDrive\Desktop\School\Second year_SDD\Programming with C# Semester_PRG521\BusTicketingSystem\BusTicketingSystem\obj\Debug\net6.0-windows\ref\BusTicketingSystem.dll
